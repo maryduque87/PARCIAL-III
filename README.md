@@ -1,5 +1,13 @@
 # PARCIAL-III
 
+# Funcionalidades
+1. Agregar, eliminar y marcar tareas como completadas.
+2. Filtrar tareas por fechas: ver todas, ver hoy o ver la semana.
+3. Recordatorios de tareas próximas (hoy y mañana).
+4. Visualización de tareas en una lista con colores según la prioridad.
+5. Interfaz gráfica interactiva donde el usuario puede interactuar con la agenda.
+
+
 # Importacion de modulos
 
 - Tkinter: módulo para crear la interfaz gráfica.
