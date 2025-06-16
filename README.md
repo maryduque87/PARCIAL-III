@@ -172,7 +172,7 @@ class InterfazAgenda:
 
 
 # ---------------- MAIN ----------------
-if __name__ == "__main__":
+    if __name__ == "__main__":
     def iniciar_agenda():
         nombre = entry_nombre.get()
         if not nombre.strip():
